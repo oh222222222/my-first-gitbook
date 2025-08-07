@@ -1,9 +1,14 @@
+![로고 이미지](assets/images/logo.jpg)
+
+![로고 이미지](assets/images/main-image.png)
+
+
 # 나의 첫 번째 e-Book
 
 <div style="text-align: center; padding: 50px 0;">
     <h1 style="font-size: 3em; color: blue;">웹 개발 입문 가이드</h1>
     <p style="font-size: 1.5em; color: gray;">HTML, CSS로 시작하는 웹 개발</p>
-    <p style="font-size: 1.2em; color: gray;">작성자: 홍길동</p>
+    <p style="font-size: 1.2em; color: gray;">작성자: 오현호</p>
     <p style="font-size: 1em; color: gray;">2025년 8월</p>
 </div>
 
